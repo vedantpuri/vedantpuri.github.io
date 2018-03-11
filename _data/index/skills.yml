@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: A, B, C, D, E, F, G, H, I, J
-percentage: 100, 35, 65, 80, 70, 90, 50, 80, 75, 90
+aspects: Java, Python, C/C++, PHP, HTML/CSS, SQL, Git/Github
+percentage: 85, 85, 70, 80, 70, 70, 85
