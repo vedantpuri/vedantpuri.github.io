@@ -5,7 +5,7 @@
   i18n: jalpc
   gh_user: mayankk2308
   repo: natural-language-unix
-  img: /static/assets/img/landing/nlu.jpg
+  img: /static/assets/img/landing/nlu.png
   desc: This program allows users to automate seemingly tedious and multi-step processes through the application of Unix commands using natural language.
 
 - name: Emoji Prediction
