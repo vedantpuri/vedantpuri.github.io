@@ -2,8 +2,8 @@
 
 # Website settings
 title: Vedant Puri
-description: Jack's blog,use Jekyll and github pages.
-keywords: Jack,Jalpc,blog,Jekyll,github,gh-pages
+description: Vedant Puri GitHub Portfolio.
+keywords: Vedant, Puri, vedantpuri, vedantpuri13
 # baseurl:  /Jalpc # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 # url: https://example.com
 url: https://vedantpuri.github.io  # url should be 'http://<github_username>.github.io/homepage' as before
