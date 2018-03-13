@@ -27,9 +27,9 @@ author:  # change following line to your infomation.
     - name: fa-music
     - name: icon-git
   skill_icon2:
-    - name: icon-java
+    - name: icon-java-bold
     - name: icon-python
-  desc: Introduce myself will be here.  # Describe yourself.
+  desc: Welcome to a glimpse of my journey so far. At 20 years of age, studying computer science, I am an NLP enthusiast with a slight inclination towards cyber-security. After taking off my blinkers of just focussing on coursework, I have expanded my horizon by delving into the beautiful wonderland of developing side projects and using my knowledge so far to build something productive. If you have an out of the box idea and need help in executing it, sign me up for it ! Apart from the nitty gritties of my portfolio I put up below for the purpose of looking for an internship this summer, I am a huge soccer fan and I love to listen to music. My favorite soccer Team is MCFC and my current favorite song is Strangers, by Halsey. I also love to spend a while at the gym in the evening on weekdays. # Describe yourself.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.

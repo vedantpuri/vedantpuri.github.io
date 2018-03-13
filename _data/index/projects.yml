@@ -12,7 +12,7 @@
   i18n: cpython
   gh_user: vedantpuri
   repo: emoji-prediction
-  img: /static/assets/img/landing/python.png
+  img: /static/assets/img/landing/emoji.jpg
   desc: Predicts an emoji based on a given tweet. Limited to top 20 emojis given by SemEval 2018.Uses Naïve Bayes as a baseline and further uses Decision Tree Classifier, LSTM and bidirectional LSTM models.
 
 - name: Free and For Sale
