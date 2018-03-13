@@ -24,11 +24,11 @@ author:  # change following line to your infomation.
   cv:   # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
-    - name: fa-music
-    - name: icon-git
+    - name: icon-music
+    - name: icon-music
   skill_icon2:
     - name: icon-music
-    - name: icon-python
+    - name: icon-music
   desc: Welcome to a glimpse of my journey so far. At 20 years of age, studying computer science, I am an NLP enthusiast with a slight inclination towards cyber-security. After taking off my blinkers of just focussing on coursework, I have expanded my horizon by delving into the beautiful wonderland of developing side projects and using my knowledge so far to build something productive. If you have an out of the box idea and need help in executing it, sign me up for it ! Apart from the nitty gritties of my portfolio I put up below for the purpose of looking for an internship this summer, I am a huge soccer fan and I love to listen to music. My favorite soccer Team is MCFC and my current favorite song is Strangers, by Halsey. I also love to spend a while at the gym in the evening on weekdays. # Describe yourself.
 
 # comment
