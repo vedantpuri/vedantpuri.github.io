@@ -1,22 +1,31 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Jalpc
+- name: NLU
   i18n: jalpc
-  gh_user: jarrekk
-  repo: Jalpc
-  img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
+  gh_user: mayankk2308
+  repo: natural-language-unix
+  img: /static/assets/img/landing/nlu.jpg
+  desc: This program allows users to automate seemingly tedious and multi-step processes through the application of Unix commands using natural language.
 
-- name: Python
+- name: Emoji Prediction
   i18n: cpython
-  gh_user: python
-  repo: cpython
+  gh_user: vedantpuri
+  repo: emoji-prediction
   img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
+  desc: Predicts an emoji based on a given tweet. Limited to top 20 emojis given by SemEval 2018.Uses Naïve Bayes as a baseline and further uses Decision Tree Classifier, LSTM and bidirectional LSTM models.
 
-- name: Google
+- name: Free and For Sale
   i18n: google
-  url: https://google.com
-  img: /static/assets/img/landing/google.png
-  desc: This is another project.
+  gh_user: vedantpuri
+  repo: ffs-web
+  img: /static/assets/img/landing/ffs.jpeg
+  desc: Web-App for the famous facebook group, "Free and for Sale". Made with the purpose of catering to the 5 college consortium exclusively, with the hope of expanding the idea beyond just facebook.
+
+#
+# Eg. for project not on repo but live
+# - name: Free and For Sale
+#   i18n: google
+#   url: https://google.com
+#   img: /static/assets/img/landing/google.png
+#   desc: This is another project.

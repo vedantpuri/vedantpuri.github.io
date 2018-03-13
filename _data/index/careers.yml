@@ -13,8 +13,6 @@
     detail: Undergraduate Student
     i18n: company_c_job
   icon: fa-plus-square
-
-
 - name:
     detail: talentrack.in
     i18n: company_c
