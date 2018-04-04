@@ -51,6 +51,12 @@ permalink: /
   {% include sections/{{section.tpl}} %}
 </section>
 {% endfor %}
+<div class="row" style="background: #3385FF">
+   <!-- url('/static/assets/img/landing/word_map.png') -->
+    <div class="col-lg-8 col-lg-offset-2 text-center m-t-lg m-b-lg">
+        <p id="jalpc_site_pv" style="color: #FFFFFF"><strong>&copy; {{ 'now' | date: "%Y" }} {{ site.title }}</strong></p>
+    </div>
+</div>
 <style>
 iframe {
   -moz-transform: scale(0.25, 0.25);
