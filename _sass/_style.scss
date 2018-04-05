@@ -11,6 +11,26 @@
   background-position: 50% 50%;
   background-size: contain;
 }
+#text-overlay
+{
+  position: absolute;
+  top: 50%; left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+#text-overlay h1
+{
+  font-size: 60px;
+  white-space: nowrap;
+  color: red;
+}
+
+
+#name-header {
+  text-align: center;
+  color: white;
+  font-size: 80px;
+}
 button.dim {
   text-transform: uppercase;
 }
@@ -47,6 +67,7 @@ h3, h4, h5 {
   margin-top: 5px;
   font-weight: 600;
 }
+
 
 .nav {
   > li > a {
@@ -246,9 +267,21 @@ body.canvas-menu .nav-header {
     }
   }
   .navbar-right {
-    margin-right: 10px;
+    margin-right: 5px;
   }
 }
+
+#navbar {
+  margin: 0 auto;
+}
+#i18_navbar {
+  min-width: 745px;
+  padding-top: 10px;
+}
+#i18_navbar li {
+  display: inline;
+}
+
 
 .btn-default {
   &.active, &:active {
@@ -2390,7 +2423,7 @@ body {
     border-bottom: 2px solid #3385FF;
   }
   .navbar-wrapper {
-    position: fixed;
+    position: absolute;
     top: 0;
     right: 0;
     left: 0;
