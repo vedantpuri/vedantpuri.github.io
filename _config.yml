@@ -12,7 +12,7 @@ img_path: /Jalpc/static/assets/img/blog  # url should be '/homepage/static/asset
 
 # author -- index page "about me" section
 author:  # change following line to your infomation.
-  name: GitHub  # Be used at blog posts' author.
+  name: Vedant Puri  # Be used at blog posts' author.
   first_name: Vedant  # Be used at index page about me section.
   last_name: Puri  # Be used at index page about me section.
   avatar: /static/assets/img/landing/profile.jpeg  # upload your avatar at directory and edit it.
