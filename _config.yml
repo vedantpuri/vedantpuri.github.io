@@ -24,11 +24,11 @@ author:  # change following line to your infomation.
   cv: /static/assets/vedant_puri_resume.pdf # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
-    - name: icon-music
-    - name: icon-music
+    - name: icon-git 
+    - name: icon-python
   skill_icon2:
-    - name: icon-music
-    - name: icon-music
+    - name: icon-java-bold
+    - name: icon-shell
   desc: Welcome to a glimpse of my journey so far. Years of inexhaustible curiosity and an avid interest in technology culminated in my current pit stop as an undergraduate Computer Science major. The pit stop produced an NLP enthusiast with an inclination towards cybersecurity, delving into the wonders of developing side projects to build productive software in "concurrence" with focusing on coursework. If you have an out of the box idea and need help in executing it, sign me up for it! Apart from the nitty gritties of my portfolio that I mentioned below for the purpose of looking for an internship this summer, I am a huge soccer fan, having played several tournaments at various levels, MCFC being my favorite team. Also, I love listening to music and I workout occasionally. # Describe yourself.
 
 # comment

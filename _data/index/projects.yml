@@ -1,22 +1,29 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: Pyosphere
+  # i18n: jalpc
+  gh_user: vedantpuri
+  repo: pyosphere
+  img: /static/assets/img/landing/pyosphere.png
+  desc: A bash script to enable easy and error free imports in Python.
+
 - name: NLU
-  i18n: jalpc
+  # i18n: jalpc
   gh_user: mayankk2308
   repo: natural-language-unix
   img: /static/assets/img/landing/nlu.png
   desc: This program allows users to automate seemingly tedious and multi-step processes through the application of Unix commands using natural language.
 
 - name: Emoji Prediction
-  i18n: cpython
+  # i18n: cpython
   gh_user: vedantpuri
   repo: emoji-prediction
   img: /static/assets/img/landing/emoji.jpg
   desc: Predicts an emoji based on a given tweet. Limited to top 20 emojis given by SemEval 2018.Uses Naïve Bayes as a baseline and further uses Decision Tree Classifier, LSTM and bidirectional LSTM models.
 
 - name: Free and For Sale
-  i18n: google
+  # i18n: google
   gh_user: vedantpuri
   repo: ffs-web
   img: /static/assets/img/landing/ffs.jpeg
