@@ -22,12 +22,12 @@
   img: /static/assets/img/landing/emoji.jpg
   desc: Predicts an emoji based on a given tweet. Limited to top 20 emojis given by SemEval 2018.Uses Naïve Bayes as a baseline and further uses Decision Tree Classifier, LSTM and bidirectional LSTM models.
 
-- name: Free and For Sale
+- name: Univer-sale
   # i18n: google
   gh_user: vedantpuri
-  repo: ffs-web
-  img: /static/assets/img/landing/ffs.jpeg
-  desc: Web-App for the famous facebook group, "Free and for Sale". Made with the purpose of catering to the 5 college consortium exclusively, with the hope of expanding the idea beyond just facebook.
+  repo: universale
+  img: /static/assets/img/landing/univer-sale.png
+  desc: Simple web platform for university students to buy and sell items with other such students.
 
 #
 # Eg. for project not on repo but live
