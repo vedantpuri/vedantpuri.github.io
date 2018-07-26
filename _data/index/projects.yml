@@ -1,6 +1,12 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: Univer-sale
+  gh_user: vedantpuri
+  repo: universale
+  img: /static/assets/img/landing/univer-sale.png
+  desc: Simple web platform for university students to buy and sell items with other such students.
+  
 - name: Pyosphere
   gh_user: vedantpuri
   repo: pyosphere
@@ -18,9 +24,3 @@
   repo: emoji-prediction
   img: /static/assets/img/landing/emoji.jpg
   desc: Predicts an emoji based on a given tweet using several different Machine Learning models.
-
-- name: Univer-sale
-  gh_user: vedantpuri
-  repo: universale
-  img: /static/assets/img/landing/univer-sale.png
-  desc: Simple web platform for university students to buy and sell items with other such students.
