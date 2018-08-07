@@ -1,23 +1,29 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Univer-sale
+- name: Universale
   gh_user: vedantpuri
   repo: universale
   img: /static/assets/img/landing/univer-sale.png
   desc: Simple web platform for university students to buy and sell items with other such students.
-  
+
+- name: Script stash
+  gh_user: vedantpuri
+  repo: script-stash
+  img: /static/assets/img/landing/script-stash.png
+  desc: A collection of trivial scripts to automate specific tasks.
+
 - name: Pyosphere
   gh_user: vedantpuri
   repo: pyosphere
   img: /static/assets/img/landing/pyosphere.png
   desc: A bash script to enable easy and error free imports in Python.
 
-- name: NLU
+- name: Natural Language Unix
   gh_user: mayankk2308
   repo: natural-language-unix
   img: /static/assets/img/landing/nlu.png
-  desc: This program allows users to automate seemingly tedious and multi-step processes through the application of Unix commands using natural language.
+  desc: A macOS application that allows users to automate seemingly tedious and multi-step processes through the application of Unix commands using natural language.
 
 - name: Emoji Prediction
   gh_user: vedantpuri
