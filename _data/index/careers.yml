@@ -4,7 +4,7 @@
     detail: UMass Amherst
     i18n: company_c
   desc:
-    detail: Currently completing my second semester as a Junior. Studying AI, Databases and Web Development this semester.
+    detail: Currently completing my first semester as a Senior. Studying CyberSecurity and Machine Learning this semester.
     i18n: company_c_desc
   date:
     detail: January-Present
@@ -13,6 +13,21 @@
     detail: Undergraduate Student
     i18n: company_c_job
   icon: fa-plus-square
+
+- name:
+    detail: Ernst & Young
+    i18n: company_a
+  desc:
+    detail: Worked on a tool helping companies to automate identifying relevant information to avail GST credit on airline invoices. Used third party RPA software systems to automate routine tasks in companies primarily for cost cutting.
+    i18n: company_a_desc
+  date:
+    detail: August 2018
+    i18n: company_a_date
+  job:
+    detail: Software Development Intern
+    i18n: company_a_job
+  icon: fa-plus-square
+
 - name:
     detail: talentrack.in
     i18n: company_c
@@ -26,6 +41,7 @@
     detail: Software Engineering Intern
     i18n: company_c_job
   icon: fa-plus-square
+
 - name:
     detail: Tech Mahindra
     i18n: company_a
