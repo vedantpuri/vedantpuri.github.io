@@ -19,9 +19,9 @@
   img: /static/assets/img/landing/pyosphere.png
   desc: A bash script to enable easy and error free imports in Python.
 
-- name: Natural Language Unix
+- name: Nutshell
   gh_user: mayankk2308
-  repo: natural-language-unix
+  repo: nutshell
   img: /static/assets/img/landing/nlu.png
   desc: A macOS application that allows users to automate seemingly tedious and multi-step processes through the application of Unix commands using natural language.
 
