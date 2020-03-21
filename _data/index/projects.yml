@@ -7,23 +7,23 @@
   img: /static/assets/img/landing/univer-sale.png
   desc: Simple web platform for university students to buy and sell items with other such students.
 
+- name: ParlAI
+  gh_user: facebookresearch
+  repo: ParlAI
+  img: /static/assets/img/landing/parlai.jpg
+  desc: A framework for training and evaluating AI models on a variety of openly available dialogue datasets.
+
 - name: Script stash
   gh_user: vedantpuri
   repo: script-stash
   img: /static/assets/img/landing/script-stash.png
-  desc: A collection of trivial scripts to automate specific tasks.
+  desc: A collection of scripts to automate specific tasks.
 
 - name: Pyosphere
   gh_user: vedantpuri
   repo: pyosphere
   img: /static/assets/img/landing/pyosphere.png
   desc: A bash script to enable easy and error free imports in Python.
-
-- name: Nutshell
-  gh_user: mayankk2308
-  repo: nutshell
-  img: /static/assets/img/landing/nlu.png
-  desc: A macOS application that allows users to automate seemingly tedious and multi-step processes through the application of Unix commands using natural language.
 
 - name: Emoji Prediction
   gh_user: vedantpuri
