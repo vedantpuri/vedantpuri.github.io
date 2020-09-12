@@ -1,13 +1,26 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: Klaviyo Inc.
+    i18n: company_c
+  desc:
+    detail: Working Full-time as a Software Engineer on the C3(Coupons, Catalogs, and Custom Objects) team.
+    i18n: company_c_desc
+  date:
+    detail: July 2020 - Present
+    i18n: company_c_date
+  job:
+    detail: Software Engineer
+    i18n: company_c_job
+  icon: fa-plus-square
+- name:
     detail: Cornell University
     i18n: company_c
   desc:
-    detail: Pursuing an M.Eng Degree in Computer Science. Working under Prof. Claire Cardie (cornell-NLP) in the subspace of Text-Style Transfer.
+    detail: Graduated with a Masters Degree in Computer Science. GPA: 4.1/4
     i18n: company_c_desc
   date:
-    detail: Present
+    detail: 2019 - 2020
     i18n: company_b_date
   job:
     detail: Graduate Student
