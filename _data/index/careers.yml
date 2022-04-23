@@ -7,7 +7,20 @@
     detail: Working Full-time as a Software Engineer on the C3(Coupons, Catalogs, and Custom Objects) team.
     i18n: company_c_desc
   date:
-    detail: July 2020 - Present
+    detail: Mar 2022 - Present
+    i18n: company_c_date
+  job:
+    detail: Senior Software Engineer
+    i18n: company_c_job
+  icon: fa-plus-square
+- name:
+    detail: Klaviyo Inc.
+    i18n: company_c
+  desc:
+    detail: 
+    i18n: company_c_desc
+  date:
+    detail: July 2020 - Mar 2022
     i18n: company_c_date
   job:
     detail: Software Engineer
